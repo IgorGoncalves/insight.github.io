@@ -10,14 +10,15 @@ visual
 ## Como ?
 
 Usando um app conectado a a tecnologia dos iBeacon's que seriam usados para
-triangular a posição da pessoa e dos locais ao redor dela
+estimar a posição da pessoa e dos locais ao redor dela
 
 --
 
 ## iBeacon
 
-iBeacon é um disponsitivo que emite sinais Bluetooth com informações como nível
-de sinal e o ID do beacon
+iBeacon é um disponsitivo que emite sinais Bluetooth que são captados pelos smatphones
+que que tem a tecnologia de Bluetooth 4.0 (low energie)  ou superior. Podemos assim
+estimar a distancia do beacon ao smartphone baseado na potência do sinal recebido
 
 <div class="fragment" markdown="1">
 ![My helpful screenshot]({{ site.url }}/insight.github.io/assets/beacon_blue.png)
@@ -25,11 +26,10 @@ de sinal e o ID do beacon
 
 --
 
-## Triangulação
+## Bússola
 
-Com as informações de nível de sinal de 3 beacons é possível determinar a posição
-do iphone em relação a elements
+Conhecendo a posição possível dos beacons em referência a sua posição relativa ao
+celular e o polo magnético da terra podemos estimar a direção do local
 
-<div class="fragment" markdown="1">
-![My helpful screenshot]({{ site.url }}/insight.github.io/assets/beaconsTriangle.png )
-</div>
+
+![bussola]({{ site.url }}/insight.github.io/assets/compass.png )
