@@ -2,9 +2,12 @@
 
 Número de deficientes visuais
 
-![My helpful screenshot]({{ site.url }}/assets/65milhoes.png) {% fragment %}
-
-![My helpful screenshot]({{ site.url }}/assets/500mil.png) {% fragment %}
+<div class="fragment" markdown="1">
+![My helpful screenshot]({{ site.url }}/assets/65milhoes.png)
+</div>
+<div class="fragment" markdown="1">
+![My helpful screenshot]({{ site.url }}/assets/500mil.png)
+</div>
 
 --
 

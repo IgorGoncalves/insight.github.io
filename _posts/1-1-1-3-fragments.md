@@ -19,7 +19,9 @@ triangular a posição da pessoa e dos locais ao redor dela
 iBeacon é um disponsitivo que emite sinais Bluetooth com informações como nível
 de sinal e o ID do beacon
 
-![My helpful screenshot]({{ site.url }}/assets/beacon_blue.png) {% fragment %}
+<div class="fragment" markdown="1">
+![My helpful screenshot]({{ site.url }}/assets/beacon_blue.png)
+</div>
 
 --
 
@@ -28,4 +30,6 @@ de sinal e o ID do beacon
 Com as informações de nível de sinal de 3 beacons é possível determinar a posição
 do iphone em relação a elements
 
-![My helpful screenshot]({{ site.url }}/assets/beaconsTriangle.png ) {% fragment %}
+<div class="fragment" markdown="1">
+![My helpful screenshot]({{ site.url }}/assets/beaconsTriangle.png )
+</div>
