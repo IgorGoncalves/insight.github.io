@@ -3,10 +3,10 @@
 Número de deficientes visuais
 
 <div class="fragment" markdown="1">
-![My helpful screenshot]({{ site.url }}/assets/65milhoes.png)
+![My helpful screenshot]({{ site.url }}/insight.github.io/assets/65milhoes.png)
 </div>
 <div class="fragment" markdown="1">
-![My helpful screenshot]({{ site.url }}/assets/500mil.png)
+![My helpful screenshot]({{ site.url }}/insight.github.io/assets/500mil.png)
 </div>
 
 --

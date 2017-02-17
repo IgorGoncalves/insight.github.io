@@ -1,8 +1,6 @@
 # Your presentation title
 title: InSight
 
-site.url: https://igorgoncalves.github.io/insight.github.io/
-
 # The Reveal theme
 reveal_theme: league.css
 

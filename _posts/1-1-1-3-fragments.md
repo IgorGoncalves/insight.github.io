@@ -20,7 +20,7 @@ iBeacon é um disponsitivo que emite sinais Bluetooth com informações como ní
 de sinal e o ID do beacon
 
 <div class="fragment" markdown="1">
-![My helpful screenshot]({{ site.url }}/assets/beacon_blue.png)
+![My helpful screenshot]({{ site.url }}/insight.github.io/assets/beacon_blue.png)
 </div>
 
 --
@@ -31,5 +31,5 @@ Com as informações de nível de sinal de 3 beacons é possível determinar a p
 do iphone em relação a elements
 
 <div class="fragment" markdown="1">
-![My helpful screenshot]({{ site.url }}/assets/beaconsTriangle.png )
+![My helpful screenshot]({{ site.url }}/insight.github.io/assets/beaconsTriangle.png )
 </div>
